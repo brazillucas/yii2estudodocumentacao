@@ -6,6 +6,10 @@
     <br>
 </p>
 
+# Yii (Yes it is) 2.0 - Estudo da Documentação
+Repositório destino aos arquivos desenvolvidos nos meus estudos do Framework PHP Yii 2.0 seguindo os conteúdos da documentação oficial deste.
+
+
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
 
@@ -231,3 +235,4 @@ vendor/bin/codecept run functional,unit --coverage --coverage-html --coverage-xm
 ```
 
 You can see code coverage output under the `tests/_output` directory.
+=======
